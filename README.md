@@ -13,7 +13,7 @@
     <a href="mailto:oguzyldrm52@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/oguzyldrmx/oguzyldrmx/main/icons/gmail.svg" height:"60" width="60"></a>
   </p> 
 
-<h2 align="center">:computer: Technologies :computer:</h2>
+<h2 align="center" style="color:#069">:computer: Technologies :computer:</h2>
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/oguzyldrmx/oguzyldrmx/main/icons/c.svg" width="60" height="60">
